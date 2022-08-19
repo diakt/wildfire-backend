@@ -1,4 +1,4 @@
-const wildfire = require('./2022.geojson')
+const wildfire = require('./2022.json')
 console.log(wildfire)
 const mongoose = require('./connection')
 
