@@ -17,10 +17,7 @@ app.get('/', (req, res) =>{
 })
 
 const wildfireController = require('./controllers/WildfireController')
-app.use('/api/hikes', hikeController)
-
-
-
+app.use('/api/wildfires', wildfireController)
 
 
 

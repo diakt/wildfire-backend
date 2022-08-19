@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router();
 const Wildfire = require('../models/Wildfire')
-const { requireToken } = require('../middleware/auth')
+
 
 
 router.get('/', async(req, res, next) =>{
