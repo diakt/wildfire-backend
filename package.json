@@ -22,6 +22,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "jq": "^1.7.2",
+    "mongoimport": "^1.0.6",
     "mongoose": "^6.5.2",
     "nodemon": "^2.0.19",
     "passport": "^0.6.0"
